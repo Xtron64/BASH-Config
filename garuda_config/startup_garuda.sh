@@ -1,4 +1,4 @@
 #! /bin/bash
-pfetch
-echo Welcome, $USER. 
 tmux
+pfetch
+echo "Welcome, $USER."

@@ -1,2 +1,2 @@
 #! /usr/bin/bash
-export PATH=/home/xtron64/.cargo/bin:$PATH
+export PATH=~/.cargo/bin:$PATH
