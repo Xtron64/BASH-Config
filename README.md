@@ -4,4 +4,4 @@ This is my BASH config. I modularise my BASH configs based based off distros. I 
   - Garuda Linux (In date)
 ## How to use the configs
 To use them, source the bashrc made for your distro in your .bashrc. Example:  
-``` source ~/.config/bash/garuda_config/bashrc_garuda.sh ```
+```source ~/.config/bash/garuda_config/bashrc_garuda.sh```
