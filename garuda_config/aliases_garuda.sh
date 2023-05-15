@@ -13,5 +13,3 @@ alias procs='ps'
 alias sed='sd'
 alias du='dust'
 alias cd='z'
-# Update system
-alias update='garuda-update; flatpak update'
