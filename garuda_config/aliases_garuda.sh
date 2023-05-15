@@ -1,6 +1,5 @@
 #! /bin/bash
 # Programming stuff
-alias program='cd ~/Programming && ls'
 alias script='cd ~/Scripts && ls'
 alias vim='nvim'
 # Cleanup orphaned packages
@@ -14,3 +13,9 @@ alias procs='ps'
 alias sed='sd'
 alias du='dust'
 alias cd='z'
+# Source my scripts as aliases
+alias program='source ~/Scripts/GotoProj.sh'
+alias csetup='source ~/Scripts/CSetup.sh'
+alias projsetup='source ~/Scripts/ProjSetup.sh'
+alias update='source ~/Scripts/Update.sh'
+alias pysetup='source ~/Scripts/PySetup.sh'

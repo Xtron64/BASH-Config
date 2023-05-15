@@ -14,5 +14,3 @@ source ~/.config/bash/garuda_config/aliases_garuda.sh
 source ~/.config/bash/garuda_config/path_garuda.sh
 # Zoxide config (Garuda Linux)
 source ~/.config/bash/garuda_config/zoxide_config_garuda.sh
-# Source all my scripts
-source ~/.config/bash/garuda_config/SourceScripts.sh
