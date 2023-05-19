@@ -1,6 +1,7 @@
 #! /bin/bash
 # Programming stuff
 alias program='cd ~/Programming && ls'
+alias script='cd ~/Scripts && ls'
 alias vim='nvim'
 # Cleanup orphaned packages
 alias cleanup='sudo pacman -Rns `pacman -Qtdq`'
