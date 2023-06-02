@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 # Programming stuff
 alias script='cd ~/Scripts && ls'
 alias vim='nvim'
@@ -6,7 +6,6 @@ alias vim='nvim'
 alias cleanup='sudo pacman -Rns `pacman -Qtdq`'
 # Replace GNU stuff with Rust-based alternatives
 alias grep='rg'
-alias cat='bat'
 alias ls='exa'
 alias find='fd'
 alias procs='ps'

@@ -1,4 +1,4 @@
-#! /bin/bash
-tmux
+#!/bin/bash
+clear
 pfetch
 echo "Welcome, $USER."

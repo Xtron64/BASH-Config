@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#!/bin/bash
 export PATH=~/.cargo/bin:$PATH
 export PROGRAM=~/Programming
 export SCRIPTS=~/Scripts
